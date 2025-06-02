@@ -1,0 +1,1 @@
+f = open("ch9_files\demofile.txt","r")
